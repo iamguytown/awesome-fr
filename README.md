@@ -318,6 +318,7 @@ Aller sur le dépôt puis :
 - [Carrousels de données structurées (beta)](https://developers.google.com/search/docs/appearance/structured-data/carousels-beta?hl=fr), Google utilise des données structurées pour comprendre le contenu de la page et le présenter sous une forme plus riche dans les résultats de recherche (ce que l'on appelle un résultat enrichi). Ce guide se concentre sur un nouveau résultat enrichi de type carrousel, disponible en version bêta (2024)
 - [ÉTINCELLE : l'audit en live de ton site WordPress !](https://www.linkedin.com/events/tincelle-l-auditenlivedetonsite7175443267394641920/theater/), un audit live très instructif de sites WordPress et e-commerce, par Daniel Roch, de [SEOKEY](https://www.seo-key.fr/).
 - [Comment optimiser le référencement de son site WordPress : les 7 conseils d’un expert SEO](https://www.blogdumoderateur.com/optimiser-referencement-site-wordpress-7-conseils/), publié chez [BDM](https://www.blogdumoderateur.com/), avec le pertinent Daniel Roch
+- [Générateur de données structurées JSON-LD](https://bloomwise.io/fr/outils-seo-gratuits/generateur-donnees-structurees), générer gratuitement, en français, le code JSON-LD d'une page (Organization, LocalBusiness, Article, FAQ, Product, fil d'Ariane), prêt à coller. Par [Bloomwise](https://bloomwise.io/fr)
 
 ## API publiques
 
